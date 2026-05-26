@@ -20,10 +20,10 @@
 ```ts
 const scirpter = {
   location: "Germany 🇩🇪",
-  path: "self-taught developer",
+  path: "self-taught fullstack developer",
   mindset: ["curious", "persistent", "hands-on", "automation-first"],
   interests: ["automation", "reverse engineering", "tooling", "bots", "systems"],
-  languages: ["Python", "JavaScript", "TypeScript", "Go"],
-  currentlyBuilding: "small tools that solve annoying problems",
+  languages: ["Python", "TypeScript", "Go", "C++", "Rust"],
+  currentlyBuilding: "tools that solve annoying problems",
   motto: "break it, understand it, rebuild it better"
 };
